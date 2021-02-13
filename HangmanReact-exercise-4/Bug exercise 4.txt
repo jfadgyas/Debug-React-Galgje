@@ -1,0 +1,4 @@
+1. waar wordt guessed letter toegevoegd aan de huidige letters?
+2. er is een functie in AppContainer, lijn 44, guessLetterHandler, die altijd de guessed letter toevoegt zonder voorwaarde
+3. daar moet gecontroleerd worden of onze nieuwe letter al in de array staat, als niet, alleen dan moeten we het toevogen
+4. daarna het veld leeg maken

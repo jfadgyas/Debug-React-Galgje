@@ -1,0 +1,4 @@
+1. waar wordt guessed letter toegevoegd aan de huidige letters?
+2. er is een functie in AppContainer, lijn 44, guessLetterHandler. Daar wordt alleen gecontroleerd of het input veld leeg is, maar niet of onze letter daarin staat is
+3. dus een nieuwe voorwaarde toegevoegt moet worden, if (wrongLetters doesnt contain current letter) => add
+

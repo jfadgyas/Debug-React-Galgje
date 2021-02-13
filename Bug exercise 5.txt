@@ -1,0 +1,3 @@
+1. waar wordt het bepaald of er Game Over is?
+2. in App.js 25 is er een functie, isGameOver
+3. die returneert true, als de aantal wrongLetters groter is dan maxGuesses. De logica is verkeerd, moet >= zijn.

@@ -1,0 +1,5 @@
+1. controleer start volgorde
+2. wij winnen meteen, dat betekent wordWasGuessed moet true zijn of isGameOver moet true zijn
+3. waar hangt wordWasGuessed af? 
+4. in de wordGuessed functie wordt 'word' gesplitst. Lijn 14 is er een filter die 'remaining' returnert
+5. dit is altijd een lege array, dus de functie returnert true, omdat de logica is verkeerd. Het moet !guessedLetters.includes(letter) zijn.

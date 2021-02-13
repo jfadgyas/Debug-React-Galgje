@@ -1,0 +1,5 @@
+1. ontdek applicatie
+2. waar wordt het bepaald of je wint? => in GameOver.js
+3. winnen hangt af van de variable props.wordGuessed, waar komt het vandaan?
+4. komt van App.js lijn 31
+5. het wordt doorgegeven als wordGuesed, dus met een 's' minder, moet wordGuessed zijn

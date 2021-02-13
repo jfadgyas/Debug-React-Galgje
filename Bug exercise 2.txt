@@ -1,0 +1,4 @@
+1. App starten, en console openen in de browser
+2. zodra ik een letter verstuur, verschijnt een foutmelding:
+this.state.guesedLetters is undefined, AppContainer lijn 50
+3. een 's' is gemist weer, guesedLetters ipv. guessedLetters
